@@ -4,3 +4,17 @@ title:  "British Musuem"
 date:   2020-10-28 02:03:00 +0800
 categories: jekyll update
 ---
+# Hello this is my first blog!
+
+Hello everyone! I'm Lujingrui Guan from China, and you can just call me Jean. I studied Media&Communication in Korea University, Seoul, and now live in Beijing.
+
+Recently, I went to ChangSha City and visited the Hunan Museum. There is a famous exhibition called Changsha Mawangdui Han Dynasty Tombs, which was one of the world most important archaeological discoveries of the 20th century. Also, they have the virtual trip on the website
+
+Looking forward to studying this module and seeing you all in London!
+
+Here are some Museums or Galleries that I recommand:
+1. *the Palace Museum* [Link to homepage](https://www.dpm.org.cn)
+2. *Samsung Museum "Leeum"* [Link to homepage](http://www.leeum.org)
+3. *Red Brick Contemporary Art Museum* [Link to homepage](http://redbrickartmuseum.org)
+4. *Fiu Fiu Gallery*
+5. *Song Art Museum*
